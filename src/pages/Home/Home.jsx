@@ -17,7 +17,7 @@ export const Home = () => {
 
   return (
     <div className={styles.homeContainer}>
-      <h2>Trending today</h2>
+      <h3>Trending today</h3>
       <ul>
         {trendingMovies.map(trendingMovie => (
           <Link

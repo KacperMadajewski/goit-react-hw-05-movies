@@ -1,0 +1,23 @@
+.backLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.backLink:hover {
+    color: red;
+}
+
+.detailsContainer {
+    display: flex;
+    margin-left: 1rem;
+    flex-direction: column;
+}
+
+.detailsLinks {
+    text-decoration: none;
+    color: inherit;
+}
+
+.detailsLinks:hover {
+    color: goldenrod;
+}

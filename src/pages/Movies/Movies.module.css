@@ -1,0 +1,21 @@
+.formContainer {
+display: flex;
+padding: 1rem;
+gap: 1rem;
+}
+
+.formInput {
+border: 1px solid black;
+width: 300px;
+}
+
+.formBtn {
+border: 1px solid black;
+border-radius: 15px;
+font-size: 20px;
+}
+
+.formBtn:hover {
+    background-color: lightgreen;
+    cursor: pointer;
+}

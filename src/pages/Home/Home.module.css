@@ -1,0 +1,14 @@
+.homeContainer {
+  margin-left: 1rem;
+  display: block;
+  width: 35vw;
+}
+
+.homeLinks {
+  text-decoration: none;
+  color: inherit;
+}
+
+.homeLinks:hover {
+  color: lightcoral;
+}

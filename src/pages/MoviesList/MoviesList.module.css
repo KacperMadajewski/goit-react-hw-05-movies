@@ -1,0 +1,14 @@
+.moviesListContainer {
+  margin-left: 1rem;
+  display: block;
+  width: 35vw;
+}
+
+.moviesListLinks {
+  text-decoration: none;
+  color: inherit;
+}
+
+.moviesListLinks:hover {
+  color: lightcoral;
+}
